@@ -258,22 +258,10 @@ VConnect/
 | Admin changes not applied | Log out and log in again after changing a role. |
 | `dotnet-ef` version warning | Match the tool to EF Core: `dotnet tool update --global dotnet-ef --version 9.0.9`. |
 
----
+## Team Members
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push the branch: `git push origin feature/your-feature`
-5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**YOUR NAME** — [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+| ID          | Name                   | Email                              | Role              |
+|-------------|------------------------|------------------------------------|-------------------|
+| 20200204058 | Mahdi Mubassera        | mubasseramahdi@gmail.com | Frontend |
+| 20220104064 | Abdul Mohaimen Khan Arnob | abdulmohaimenkhanarnob@gmail.com |  Frontend |
+| 20220104068 | Samira Ahmed Fiha  | fihaahmed@outlook.com | Lead + Frontend + Backend       |
