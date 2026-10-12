@@ -19,7 +19,7 @@ VConnect is an ASP.NET Core MVC web platform that connects volunteers, donors, a
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 - [Team Members](#Team-Members)
-- 
+  
 
 ---
 
